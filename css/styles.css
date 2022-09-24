@@ -1,0 +1,27 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p, li{
+    text-align: center;
+    margin: auto;
+    width: 70%;
+    padding: 0.5vh;
+}
+
+* {
+    text-align: center;
+    background-color: rgb(11, 183, 235);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+ol li, ul li {
+    text-align: justify;
+    margin: auto;
+    width: 50%; 
+  }
+
+
